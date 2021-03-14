@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615736344 source:e:\facultate\sd\stl_vector\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<queue>
+	<cstdlib>
+	<algorithm>
+

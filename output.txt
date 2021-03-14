@@ -1,0 +1,70 @@
+TESTUL 1
+Sort din stl: 0 secunde
+Bubble Sort: 0.014014
+Priority sort: 0.001016 secunde.
+Count sort: 0.000999 secunde.
+Quick sort cu pivot determinist (in mijloc): 0 secunde.
+Quick sort cu pivot randomizat: 0 secunde.
+Merge sort: 0.003997 secunde.
+Radix sort: 0 secunde.
+
+TESTUL 2
+Sort din stl: 0.032022 secunde
+Bubble Sort: 51.0965
+Priority sort: 0.181 secunde.
+Count sort: 0 secunde.
+Quick sort cu pivot determinist (in mijloc): 0.060152 secunde.
+Quick sort cu pivot randomizat: 0.033033 secunde.
+Merge sort: 0.483526 secunde.
+Radix sort: 0.057019 secunde.
+
+TESTUL 3
+Sort din stl: 5.94638 secunde
+Bubble Sort nu poate sorta
+Priority sort: 22.8957 secunde.
+Count sort: 0.518174 secunde.
+Quick sort cu pivot determinist (in mijloc): 6.78501 secunde.
+Quick sort cu pivot randomizat: 4.52914 secunde.
+Merge sort: 58.0475 secunde.
+Radix sort: 4.40709 secunde.
+
+TESTUL 4
+Sort din stl: 23.7307 secunde
+Bubble Sort nu poate sorta
+Priority sort: 23.7016 secunde.
+Count Sort nu poate sorta
+Quick sort cu pivot determinist (in mijloc): 5.79877 secunde.
+Quick sort cu pivot randomizat: 9.96269 secunde.
+Merge sort: 57.3173 secunde.
+Radix sort: 7.44406 secunde.
+
+TESTUL 5
+Sort din stl: 0.566557 secunde
+Bubble Sort nu poate sorta
+Priority sort: 2.24032 secunde.
+Count sort: 0.059756 secunde.
+Quick sort cu pivot determinist (in mijloc): 0.69895 secunde.
+Quick sort cu pivot randomizat: 0.460678 secunde.
+Merge sort: 4.90509 secunde.
+Radix sort: 0.500484 secunde.
+
+TESTUL 6
+Sort din stl: 0.483111 secunde
+Bubble Sort: 0
+Priority sort: 1.8659 secunde.
+Count sort: 0.049276 secunde.
+Quick sort cu pivot determinist (in mijloc): 0.617691 secunde.
+Quick sort cu pivot randomizat: 0.378902 secunde.
+Merge sort: 4.68483 secunde.
+Radix sort: 0.115043 secunde.
+
+TESTUL 7
+Sort din stl: 0.356993 secunde
+Bubble Sort: 0.005056
+Priority sort: 2.00665 secunde.
+Count sort: 0.050689 secunde.
+Quick sort cu pivot determinist (in mijloc): 0.409614 secunde.
+Quick sort cu pivot randomizat: 0.34188 secunde.
+Merge sort: 4.67701 secunde.
+Radix sort: 0.630341 secunde.
+
